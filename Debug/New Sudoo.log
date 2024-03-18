@@ -1,0 +1,11 @@
+﻿  22L-7852 Sudoo.cpp
+C:\Users\tower\OneDrive\Desktop\Fast-Nu\1st Semester\PF material\PF\New Sudoo\22L-7852 Sudoo.cpp(27,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\tower\OneDrive\Desktop\Fast-Nu\1st Semester\PF material\PF\New Sudoo\22L-7852 Sudoo.cpp(27,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\tower\OneDrive\Desktop\Fast-Nu\1st Semester\PF material\PF\New Sudoo\22L-7852 Sudoo.cpp(578,15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\tower\OneDrive\Desktop\Fast-Nu\1st Semester\PF material\PF\New Sudoo\22L-7852 Sudoo.cpp(619,15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\tower\OneDrive\Desktop\Fast-Nu\1st Semester\PF material\PF\New Sudoo\22L-7852 Sudoo.cpp(660,15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\tower\OneDrive\Desktop\Fast-Nu\1st Semester\PF material\PF\New Sudoo\22L-7852 Sudoo.cpp(1053,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  prac.cpp
+  practice.cpp
+  Generating Code...
+  New Sudoo.vcxproj -> C:\Users\tower\OneDrive\Desktop\Fast-Nu\1st Semester\PF material\PF\New Sudoo\Debug\New Sudoo.exe
